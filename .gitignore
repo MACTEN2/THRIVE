@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# JavaScript / TypeScript
+node_modules/
+dist/
+build/
+.next/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS and editor files
+.DS_Store
+.vscode/
+
+# Logs
+*.log
+
