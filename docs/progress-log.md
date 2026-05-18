@@ -16,10 +16,14 @@ This log records meaningful progress made during the Thrive AI project. It shoul
 - Created a clean local project folder: `Thrive-AI`
 - Added a `.gitignore` file for future development
 - Selected the GitHub repository: `MACTEN2/THRIVE`
+- Initialised the `Thrive-AI` folder as a local Git repository
+- Created the first local commit for the project documentation
+- Connected the local repository to GitHub
+- Pushed the `main` branch to `https://github.com/MACTEN2/THRIVE`
 
 ### Current Focus
 
-The project is currently focused on Stage 1: Project Concept, while also setting up the repository foundation needed for GitHub and Visual Studio Code.
+The project is currently focused on Stage 1: Project Concept. The GitHub and Visual Studio Code project foundation is now in place.
 
 ### Next Steps
 
@@ -27,4 +31,4 @@ The project is currently focused on Stage 1: Project Concept, while also setting
 - Define the first version of Thrive AI's main features
 - Begin the feature list document
 - Continue documenting progress at the end of each session
-- Push the local `Thrive-AI` project folder to GitHub
+- Continue using Git commits to record meaningful project progress

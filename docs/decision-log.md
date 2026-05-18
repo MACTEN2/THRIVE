@@ -27,3 +27,7 @@ The GitHub repository for the project is:
 https://github.com/MACTEN2/THRIVE
 
 The local project folder will be connected to this repository so the project can be version controlled and shared.
+
+### Decision: First GitHub push completed from local Thrive-AI folder
+
+The local project folder at `Thrive-AI` was initialised as a Git repository, connected to the GitHub remote, and pushed to the `main` branch. This establishes GitHub as the shared version history for the project.
