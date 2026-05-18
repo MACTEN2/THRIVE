@@ -20,6 +20,9 @@ This log records meaningful progress made during the Thrive AI project. It shoul
 - Created the first local commit for the project documentation
 - Connected the local repository to GitHub
 - Pushed the `main` branch to `https://github.com/MACTEN2/THRIVE`
+- Created the user personas and use cases document
+- Added realistic user groups for job seekers, students, confidence builders, health and habit builders, and overwhelmed goal setters
+- Defined early use case categories for goal discovery, action planning, progress tracking, coaching conversations, academic planning, and habit support
 
 ### Current Focus
 

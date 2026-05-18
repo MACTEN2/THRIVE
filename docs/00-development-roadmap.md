@@ -8,6 +8,11 @@ Define what Thrive AI is, who it helps, why it matters, and what makes it person
 
 Status: In progress
 
+Current documents:
+
+- `docs/01-project-concept.md`
+- `docs/02-user-personas-and-use-cases.md`
+
 ## 2. Features
 
 Define the main user-facing features, including job support, confidence coaching, wellness support, assignment planning, reminders, and progress tracking.
@@ -47,4 +52,3 @@ At the end of every working session, update:
 - `docs/decision-log.md` if any important decision was made
 
 This is important because Thrive AI should have a visible development history that shows planning, effort, reasoning, iteration, and improvement.
-
