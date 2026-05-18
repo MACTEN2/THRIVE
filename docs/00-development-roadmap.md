@@ -6,7 +6,7 @@ This roadmap keeps the Thrive AI project organised as it develops. Each stage sh
 
 Define what Thrive AI is, who it helps, why it matters, and what makes it personal.
 
-Status: In progress
+Status: Foundation drafted, open for updates
 
 Current documents:
 
@@ -17,13 +17,17 @@ Current documents:
 
 Define the main user-facing features, including job support, confidence coaching, wellness support, assignment planning, reminders, and progress tracking.
 
-Status: Not started
+Status: First draft complete
+
+Current documents:
+
+- `docs/03-feature-specification.md`
 
 ## 3. System Design
 
 Design the technical structure of the product, including frontend, backend, AI agent layer, tools, memory, safety checks, and database.
 
-Status: Not started
+Status: Next stage
 
 ## 4. Data Storage and Privacy
 

@@ -31,3 +31,17 @@ The local project folder will be connected to this repository so the project can
 ### Decision: First GitHub push completed from local Thrive-AI folder
 
 The local project folder at `Thrive-AI` was initialised as a Git repository, connected to the GitHub remote, and pushed to the `main` branch. This establishes GitHub as the shared version history for the project.
+
+### Decision: First feature scope defined for MVP
+
+The first version of Thrive AI will focus on onboarding, support mode selection, chat, goal creation, personalized action plans, weekly tasks, progress check-ins, basic memory, safety boundaries, and a simple progress dashboard.
+
+Five main support modes were selected for the early product:
+
+- Job Search Coach
+- Assignment Planner
+- Confidence and Social Skills Coach
+- Health and Habit Coach
+- General Goal Coach
+
+This keeps the project broad enough to support real-life users while still making the first build realistic.

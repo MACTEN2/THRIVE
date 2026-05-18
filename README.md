@@ -12,13 +12,14 @@ Thrive AI is not just a chatbot. It is intended to become a practical support sy
 
 ## Current Project Status
 
-This project is in the early concept and planning stage. The first development focus is to define the project clearly before moving into features, system design, data storage, real-life impact, and future development.
+This project is in the planning stage. The core concept, user personas, and first feature specification have been drafted. The next development focus is system design.
 
 ## Documentation Map
 
 - [Development Roadmap](docs/00-development-roadmap.md)
 - [Project Concept](docs/01-project-concept.md)
 - [User Personas and Use Cases](docs/02-user-personas-and-use-cases.md)
+- [Feature Specification](docs/03-feature-specification.md)
 - [Decision Log](docs/decision-log.md)
 - [Progress Log](docs/progress-log.md)
 - [Session Notes](docs/session-notes/)
